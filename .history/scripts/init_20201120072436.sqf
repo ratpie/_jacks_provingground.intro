@@ -1,0 +1,2 @@
+globCaptures = [];
+publicVariable "globCaptures";

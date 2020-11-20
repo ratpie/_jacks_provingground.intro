@@ -1,0 +1,3 @@
+ECHO OFF
+SET missionName = %1
+SET mapName = %2
